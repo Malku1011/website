@@ -202,7 +202,7 @@ window.onload = function(){
           _enemies.splice(k, 1);
           health -= 5;
         if(health == 0){
-          alert("You DIED!\nYour score was "+score);
+          alert("Te moriste chupapinga!\n\nTu puntuación fue: "+score);
           startGame();
          }
         }
